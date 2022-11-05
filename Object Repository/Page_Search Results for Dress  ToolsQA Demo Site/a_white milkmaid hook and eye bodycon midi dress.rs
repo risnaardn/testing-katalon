@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_white milkmaid hook and eye bodycon midi dress</name>
+   <tag></tag>
+   <elementGuidId>6965d4be-5355-402f-9007-3f06b6deb816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div/div/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ec3bc9d9-f6c3-46bd-a236-9fd833728fb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/white-milkmaid-hook-and-eye-bodycon-midi-dress/</value>
+      <webElementGuid>7028ac68-166b-4006-9809-a458bb5a7b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>white milkmaid hook and eye bodycon midi dress</value>
+      <webElementGuid>f070058d-db0e-43ef-b53e-ee66a4a084c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1473 product type-product status-publish has-post-thumbnail product_cat-bodycon-dresses product_tag-bodycon-dresses product_tag-women has-featured first instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>fb972889-882c-4f35-b427-babb54b3608e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>49e7da21-bace-4a50-a7b3-72a160920fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/white-milkmaid-hook-and-eye-bodycon-midi-dress/</value>
+      <webElementGuid>302ce96f-fa73-490c-abbf-bee30ff7a21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>white milkmaid hook and eye bodycon midi dress</value>
+      <webElementGuid>6751c5a7-76d5-41fd-b226-3261af5bb2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1473 product type-product status-publish has-post-thumbnail product_cat-bodycon-dresses product_tag-bodycon-dresses product_tag-women has-featured first instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>8990a22d-089e-4a7f-bc4c-e56ce7867e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8e7388c-5a6a-4366-99dc-fd4aec1f3928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/white-milkmaid-hook-and-eye-bodycon-midi-dress/</value>
+      <webElementGuid>d552719c-e05d-4b19-bbb0-ac0689b9fb5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>white milkmaid hook and eye bodycon midi dress</value>
+      <webElementGuid>fab88d2f-391a-467d-8225-a7f9aa2349c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;noo-container-shop noo-shop-wrap&quot;]/div[@class=&quot;noo-row&quot;]/div[@class=&quot;noo-md-12 one&quot;]/div[@class=&quot;products noo-row&quot;]/div[@class=&quot;noo-product-item one noo-product-sm-4 not_featured post-1473 product type-product status-publish has-post-thumbnail product_cat-bodycon-dresses product_tag-bodycon-dresses product_tag-women has-featured first instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner&quot;]/h3[1]/a[1]</value>
+      <webElementGuid>cba96fde-38a4-423c-8565-001065471fcc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div[2]/div/div/div/div/h3/a</value>
+      <webElementGuid>ac697742-bb41-49e9-964a-023b9f0549e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'white milkmaid hook and eye bodycon midi dress')]</value>
+      <webElementGuid>5d70a461-fdeb-4920-bdee-a9a83918812f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type and Press Enter to Search'])[1]/following::a[1]</value>
+      <webElementGuid>60b6b3bf-4b6d-45f5-a6a0-1641a9dba6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to the shop'])[1]/following::a[1]</value>
+      <webElementGuid>8168de6a-8c83-47f4-a4bc-f6262b5a1d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bodycon Dresses'])[1]/preceding::a[1]</value>
+      <webElementGuid>3791aae6-0551-4fc9-ab10-cdc8c9af4fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[1]/preceding::a[2]</value>
+      <webElementGuid>e919db80-3da0-48ce-97ea-b5754e71723b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='white milkmaid hook and eye bodycon midi dress']/parent::*</value>
+      <webElementGuid>b9176b43-200d-4c02-84e2-6d1febb09a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shop.demoqa.com/product/white-milkmaid-hook-and-eye-bodycon-midi-dress/')]</value>
+      <webElementGuid>2fdfed4c-304a-4353-9c27-a1f658d35cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>afc8dbcc-de68-43c4-823a-511094a33a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/white-milkmaid-hook-and-eye-bodycon-midi-dress/' and (text() = 'white milkmaid hook and eye bodycon midi dress' or . = 'white milkmaid hook and eye bodycon midi dress')]</value>
+      <webElementGuid>87122a96-3004-4e19-98db-af8e33154a77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
